@@ -7,7 +7,7 @@
 		http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.0.xsd">
 
 	<util:list id="zeroMqUrlList">
-		<value>tcp://rengine12:5555</value>				
+		<value>tcp://localhost:5555</value>				
 	</util:list>
 	
 </beans>
